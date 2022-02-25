@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.badID {
+    font-size: large;
+    font-weight: bold;
+    color: red;
+}
